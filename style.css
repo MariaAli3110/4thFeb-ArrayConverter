@@ -1,0 +1,26 @@
+.main {
+    align-items: center;
+    text-align: center;
+    margin-top: 23px;
+}
+.main h2 {
+    font-size: 60px;
+    color: tomato;
+}
+input {
+    font-size: 34px;
+    width: 300px;
+    border: 3px solid;
+    border-radius: 15px;
+}
+button {
+    font-size: 25px;
+    background-color: aquamarine;
+    width: auto;
+    height: 49px;
+    border-radius: 7px;
+}
+table{
+    align-items: center;
+    margin: auto;
+}
